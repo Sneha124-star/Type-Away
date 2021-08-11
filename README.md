@@ -15,8 +15,11 @@ I learnt about JS events
   ✔️ Player clicks on start button and is presented with a quote to type
   
   ✔️ Player types the quote as quickly as they can in a textbox
+  
   ✔️ As each word is completed, the next one is highlighted
+  
   ✔️ If the player has a typo, the textbox is updated to red
+  
   ✔️ When the player completes the quote, a success message is displayed with the elapsed time
 
 ## File Structure
@@ -30,6 +33,6 @@ We will need a HTML,CSS and JS files.
 
 ✅ To handle events (button clicking, typing, etc.), we register event listeners. An event listener is a function which listens for an event to occur and executes in response. Event listeners can update the UI, make calls to the server, or whatever else needs to be done in response to the user's action. We add an event listener by using addEventListener, and providing a function to execute.
 
-
+Check out the project in a browser 
 
 
