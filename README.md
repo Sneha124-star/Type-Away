@@ -33,6 +33,8 @@ We will need a HTML,CSS and JS files.
 
 ✅ To handle events (button clicking, typing, etc.), we register event listeners. An event listener is a function which listens for an event to occur and executes in response. Event listeners can update the UI, make calls to the server, or whatever else needs to be done in response to the user's action. We add an event listener by using addEventListener, and providing a function to execute.
 
-Check out the project in a browser 
+I had trouble with JS and how to move the yellow highlight from the quotes as the user types in the message box, but could more about Event Listener and how to integrate the code. Inspired and help from microsoft/Web-dev-Beginner.
+
+🌱 Check out the project in a browser https://sneha124-star.github.io/Type-Away/
 
 
